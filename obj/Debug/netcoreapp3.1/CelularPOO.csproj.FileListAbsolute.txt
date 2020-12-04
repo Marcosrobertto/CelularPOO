@@ -1,0 +1,13 @@
+C:\Users\Marcos Roberto\Documents\SENAI\CelularPOO\bin\Debug\netcoreapp3.1\CelularPOO.exe
+C:\Users\Marcos Roberto\Documents\SENAI\CelularPOO\bin\Debug\netcoreapp3.1\CelularPOO.deps.json
+C:\Users\Marcos Roberto\Documents\SENAI\CelularPOO\bin\Debug\netcoreapp3.1\CelularPOO.runtimeconfig.json
+C:\Users\Marcos Roberto\Documents\SENAI\CelularPOO\bin\Debug\netcoreapp3.1\CelularPOO.runtimeconfig.dev.json
+C:\Users\Marcos Roberto\Documents\SENAI\CelularPOO\bin\Debug\netcoreapp3.1\CelularPOO.dll
+C:\Users\Marcos Roberto\Documents\SENAI\CelularPOO\bin\Debug\netcoreapp3.1\CelularPOO.pdb
+C:\Users\Marcos Roberto\Documents\SENAI\CelularPOO\obj\Debug\netcoreapp3.1\CelularPOO.csprojAssemblyReference.cache
+C:\Users\Marcos Roberto\Documents\SENAI\CelularPOO\obj\Debug\netcoreapp3.1\CelularPOO.AssemblyInfoInputs.cache
+C:\Users\Marcos Roberto\Documents\SENAI\CelularPOO\obj\Debug\netcoreapp3.1\CelularPOO.AssemblyInfo.cs
+C:\Users\Marcos Roberto\Documents\SENAI\CelularPOO\obj\Debug\netcoreapp3.1\CelularPOO.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Roberto\Documents\SENAI\CelularPOO\obj\Debug\netcoreapp3.1\CelularPOO.dll
+C:\Users\Marcos Roberto\Documents\SENAI\CelularPOO\obj\Debug\netcoreapp3.1\CelularPOO.pdb
+C:\Users\Marcos Roberto\Documents\SENAI\CelularPOO\obj\Debug\netcoreapp3.1\CelularPOO.genruntimeconfig.cache
